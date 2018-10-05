@@ -1,0 +1,62 @@
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.exe.config
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.exe
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.pdb
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.xml
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\MySql.Data.dll
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.vbprojResolveAssemblyReference.cache
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Login.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Resources.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.vbproj.GenerateResource.Cache
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.exe
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.xml
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.pdb
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Menu_Utama.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.exe.config
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.exe
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.xml
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.pdb
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Login.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Menu_Utama.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Resources.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.vbproj.GenerateResource.Cache
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.exe
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.pdb
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\AplikasiTokoMurahRezeki.xml
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\MySql.Data.DLL
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\System.Net.Http.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\System.Net.Http.xml
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.FBarang.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.FrmPegawai.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Supplier.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Member.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.FBarang.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.FrmPegawai.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Member.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Pembelian.resources
+E:\Data Semester 6\Project TA\Irsan\Program\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_Supplier.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Penjualan.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.AboutBox1.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\FlashControlV71.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\bin\Debug\stdole.dll
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_LapBarang.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_LapPegawai.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_LapPenjualan.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.Frm_LapPembelian.resources
+C:\Users\ITBPFI\Documents\GitHub\AplikasiTokoMurahRezeki\AplikasiTokoMurahRezeki\obj\Debug\AplikasiTokoMurahRezeki.FrmLaporanPembelian.resources
