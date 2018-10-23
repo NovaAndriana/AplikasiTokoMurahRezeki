@@ -108,6 +108,12 @@
     <Compile Include="FrmPegawai.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Frm_CetakNota.Designer.vb">
+      <DependentUpon>Frm_CetakNota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CetakNota.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Frm_Member.Designer.vb">
       <DependentUpon>Frm_Member.vb</DependentUpon>
     </Compile>
@@ -184,6 +190,12 @@
       <DependentUpon>RptBarang.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Report\RptNota.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptNota.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Report\Rpt_Pegawai.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -215,6 +227,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPegawai.resx">
       <DependentUpon>FrmPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CetakNota.resx">
+      <DependentUpon>Frm_CetakNota.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Member.resx">
       <DependentUpon>Frm_Member.vb</DependentUpon>
@@ -252,6 +267,10 @@
     <EmbeddedResource Include="Report\RptBarang.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>RptBarang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptNota.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptNota.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\Rpt_Pegawai.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

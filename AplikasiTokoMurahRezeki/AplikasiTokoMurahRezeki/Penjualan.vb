@@ -259,4 +259,9 @@ Public Class Penjualan
 
         End Try
     End Sub
+
+    Private Sub Btn_Cetak_Click(sender As Object, e As EventArgs) Handles Btn_Cetak.Click
+        Frm_CetakNota.Show()
+        Frm_CetakNota.TopMost = True
+    End Sub
 End Class
